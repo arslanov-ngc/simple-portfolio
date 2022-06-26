@@ -1,2 +1,2 @@
 # Simple Portfolio website
-<a href="morgan-lc.netlify.app"><b>Link</b></a>
+<a href="simpleportfolioapp.netlify.app"><b>Link</b></a>
