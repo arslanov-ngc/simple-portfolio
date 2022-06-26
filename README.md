@@ -1,2 +1,2 @@
 # Simple Portfolio website
-<a href="simpleportfolioapp.netlify.app"><b>Link</b></a>
+<a href="https://simpleportfolioapp.netlify.app"><b>Link</b></a>
